@@ -1,4 +1,4 @@
-# Jogoteca
+# Python Flask - Jogoteca
 **Web Application with *Python*, *Flask* and *MySQL*.**
 
 ## Overview
